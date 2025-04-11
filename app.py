@@ -9,5 +9,6 @@ def lambda_handler(event, context):
     KeyName='from ec_2 8:54 test 2',
     MaxCount=2
     MinCount=2
+    to test
 )
 
