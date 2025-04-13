@@ -11,5 +11,6 @@ def lambda_handler(event, context):
     MinCount=2
     to test
     edited from ubnthu
+    git diff
 )
 
