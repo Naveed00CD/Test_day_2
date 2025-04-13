@@ -10,5 +10,6 @@ def lambda_handler(event, context):
     MaxCount=2
     MinCount=2
     to test
+    edited from ubnthu
 )
 
